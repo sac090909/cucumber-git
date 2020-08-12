@@ -21,7 +21,7 @@ Scenario: Valid User login
 	And click on login button 
 	Then user lands on dashboardpage 
 
-
+@functional
 Scenario Outline: Invalid (/valid) user login 
 	When user provides username "<username>" and password "<password>" 
 	And click on login button 
