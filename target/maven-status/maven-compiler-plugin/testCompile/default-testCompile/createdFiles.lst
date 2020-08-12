@@ -1,0 +1,6 @@
+pages\DashboardPage.class
+runners\LoginRunnerTest.class
+stepDefs\LoginStep.class
+pages\LoginPage.class
+stepDefs\DashboardStep.class
+stepDefs\Context.class
